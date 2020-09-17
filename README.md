@@ -1,2 +1,1 @@
-# Wordlist-Pluas
-Gelişmiş wordlist oluşturma aracı.
+# Wordlist Oluşturma
